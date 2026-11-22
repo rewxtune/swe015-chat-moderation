@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+datasets
+scikit-learn
+gensim
+gradio
+pandas
+huggingface_hub
